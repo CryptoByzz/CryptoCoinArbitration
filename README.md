@@ -7,3 +7,5 @@ Your obedient servant wrote a software for arbitrage crypto currency, which comp
 CryptoCoinArbitration v1.1.6 Removed some bugs with Exmo causing program to crash
 
 CryptoCoinArbitration v1.1.7 Added Binance
+
+CryptoCoinArbitration v1.1.8 Removed bug with Binance and profit
